@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 Green recorder
+# This file is distributed under the same license as the PACKAGE package.
+# Muhammed Abdulaziz <muha.abdulaziz@gmail.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-14 21:50+0200\n"
+"PO-Revision-Date: 2017-05-14 22:15+0200\n"
+"Last-Translator: Muhammed Abdulaziz <muha.abdulaziz@gmail.com>\n"
+"Language-Team: doc@arabeyes.org\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+#: green-recorder:210 green-recorder:227
+msgid "Green Recorder"
+msgstr "المسجل الأخضر"
+
+#: green-recorder:211
+msgid "AreaChooser"
+msgstr "اختيار المنطقة"
+
+#: green-recorder:214
+msgid "File Name (Will be overwritten).."
+msgstr "اسم الملف (سَيُستبدل).."
+
+#: green-recorder:215
+msgid "Enter your command here.."
+msgstr "أكتب أمرًا"
+
+#: green-recorder:216
+msgid "MKV (Matroska multimedia container format)"
+msgstr ""
+
+#: green-recorder:217
+msgid "AVI (Audio Video Interleaved)"
+msgstr ""
+
+#: green-recorder:218
+msgid "MP4 (MPEG-4 Part 14)"
+msgstr ""
+
+#: green-recorder:219
+msgid "WMV (Windows Media Video)"
+msgstr ""
+
+#: green-recorder:220
+msgid "NUT (NUT Recording Format)"
+msgstr ""
+
+#: green-recorder:222
+msgid "Record Video"
+msgstr "سَجِّل فيديو"
+
+#: green-recorder:223
+msgid "Record Microphone"
+msgstr "فَعِّل الميكروفون"
+
+#: green-recorder:224
+msgid "Show Mouse"
+msgstr "اظهر مؤشر الفأرة"
+
+#: green-recorder:225
+msgid "Follow Mouse"
+msgstr "اتبع مؤشر الفأرة"
+
+#: green-recorder:231
+msgid ""
+"Green Recorder is free software: you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation, either version 3 of the License, or (at your option) "
+"any later version.\n"
+"\n"
+"Green Recorder is distributed in the hope that it will be useful, but "
+"WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY "
+"or FITNESS FOR A PARTICULAR PURPOSE.\n"
+"\n"
+"See the GNU General Public License for more details. You should have "
+"received a copy of the GNU General Public License along with Green Recorder. "
+"If not, see <http://www.gnu.org/licenses/>."
+msgstr ""
+
+#: green-recorder:232
+msgid "An easy to use yet strong desktop recorder."
+msgstr "مسجل لسطح المكتب سهل الاستخدام."
+
+#: green-recorder:236
+msgid "green-recorder"
+msgstr "المسجل الأخضر"
+
+#: green-recorder:237
+msgid "Select a Window"
+msgstr "اختر نافذة"
+
+#: green-recorder:238
+msgid "Select an Area"
+msgstr "اختر منطقة"
+
+#: green-recorder:239
+msgid "Advanced:"
+msgstr "متقدمة:"
+
+#: green-recorder:240
+msgid "Frames:"
+msgstr "الإطارات:"
+
+#: green-recorder:241
+msgid "Delay:"
+msgstr "التأخير:"
+
+#: green-recorder:242
+msgid "Audio Input:"
+msgstr "مدخل الصوت:"
+
+#: green-recorder:243
+msgid "Run Command After Recording:"
+msgstr "شغل أمرًا بعد التسجيل:"

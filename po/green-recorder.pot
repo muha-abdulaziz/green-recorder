@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-14 21:50+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: green-recorder:210 green-recorder:227
+msgid "Green Recorder"
+msgstr ""
+
+#: green-recorder:211
+msgid "AreaChooser"
+msgstr ""
+
+#: green-recorder:214
+msgid "File Name (Will be overwritten).."
+msgstr ""
+
+#: green-recorder:215
+msgid "Enter your command here.."
+msgstr ""
+
+#: green-recorder:216
+msgid "MKV (Matroska multimedia container format)"
+msgstr ""
+
+#: green-recorder:217
+msgid "AVI (Audio Video Interleaved)"
+msgstr ""
+
+#: green-recorder:218
+msgid "MP4 (MPEG-4 Part 14)"
+msgstr ""
+
+#: green-recorder:219
+msgid "WMV (Windows Media Video)"
+msgstr ""
+
+#: green-recorder:220
+msgid "NUT (NUT Recording Format)"
+msgstr ""
+
+#: green-recorder:222
+msgid "Record Video"
+msgstr ""
+
+#: green-recorder:223
+msgid "Record Microphone"
+msgstr ""
+
+#: green-recorder:224
+msgid "Show Mouse"
+msgstr ""
+
+#: green-recorder:225
+msgid "Follow Mouse"
+msgstr ""
+
+#: green-recorder:231
+msgid ""
+"Green Recorder is free software: you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation, either version 3 of the License, or (at your option) "
+"any later version.\n"
+"\n"
+"Green Recorder is distributed in the hope that it will be useful, but "
+"WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY "
+"or FITNESS FOR A PARTICULAR PURPOSE.\n"
+"\n"
+"See the GNU General Public License for more details. You should have "
+"received a copy of the GNU General Public License along with Green Recorder. "
+"If not, see <http://www.gnu.org/licenses/>."
+msgstr ""
+
+#: green-recorder:232
+msgid "An easy to use yet strong desktop recorder."
+msgstr ""
+
+#: green-recorder:236
+msgid "green-recorder"
+msgstr ""
+
+#: green-recorder:237
+msgid "Select a Window"
+msgstr ""
+
+#: green-recorder:238
+msgid "Select an Area"
+msgstr ""
+
+#: green-recorder:239
+msgid "Advanced:"
+msgstr ""
+
+#: green-recorder:240
+msgid "Frames:"
+msgstr ""
+
+#: green-recorder:241
+msgid "Delay:"
+msgstr ""
+
+#: green-recorder:242
+msgid "Audio Input:"
+msgstr ""
+
+#: green-recorder:243
+msgid "Run Command After Recording:"
+msgstr ""
